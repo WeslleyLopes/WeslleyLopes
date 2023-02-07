@@ -11,5 +11,5 @@
 </div><br/>
 
 <p>
-   Maior paixão -> tecnologia <3
+   Maior paixão -> tecnologia :heart:
 <p/>
